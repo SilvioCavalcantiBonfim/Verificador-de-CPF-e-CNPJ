@@ -24,6 +24,7 @@ Este é um projeto desenvolvido como parte do curso de Desenvolvimento Backend e
 O código faz uso das seguintes estruturas de controle em Ruby:
 
 **Estruturas de Condição (if, case)**: Para determinar se um CPF ou CNPJ é válido ou para decidir qual algoritmo utilizar dependendo do tipo de número inserido.
+
 **Laços de Repetição (for)**: Utilizados principalmente para percorrer os caracteres dos números de CPF e CNPJ durante a verificação e geração dos dígitos verificadores.
 
 ## Execução do Projeto

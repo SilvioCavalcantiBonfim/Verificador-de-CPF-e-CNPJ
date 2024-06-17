@@ -1,4 +1,5 @@
 
+
 # Verificador de CPF e CNPJ
 
 ![Ruby](https://img.shields.io/badge/-Ruby-white?style=for-the-badge&logo=ruby&color=CC342D&logoColor=white)
@@ -7,13 +8,16 @@ Este é um projeto desenvolvido como parte do curso de Desenvolvimento Backend e
 
 ## Arquivos do Projeto
 
-`cpf.rb`: Contém a implementação da classe CPF, que permite validar números de CPF.
-`cnpj.rb`: Implementa a classe CNPJ, responsável por validar números de CNPJ.
-`main.rb`: Arquivo principal que oferece uma interface simples via terminal. Permite ao usuário inserir um número de CPF ou CNPJ e verifica se é válido de acordo com os algoritmos implementados nas classes CPF e CNPJ.
+- `cpf.rb`: Contém a implementação da classe CPF, que permite validar números de CPF.
+- `cnpj.rb`: Implementa a classe CNPJ, responsável por validar números de CNPJ.
+- `main.rb`: Arquivo principal que oferece uma interface simples via terminal. Permite ao usuário inserir um número de CPF ou CNPJ e verifica se é válido de acordo com os algoritmos implementados nas classes CPF e CNPJ.
 
 ## Funcionalidades
-**Validação de CPF e CNPJ**: Verifica se os números inseridos são válidos segundo os critérios de dígitos verificadores.
-**Interface Terminal**: Utiliza-se de comandos simples para interação com o usuário, facilitando a verificação dos números.
+
+ - [x] **Validação de CPF e CNPJ**: Verifica se os números inseridos são válidos segundo os critérios de dígitos verificadores.
+ 
+ 
+ - [x] **Interface Terminal**: Utiliza-se de comandos simples para interação com o usuário, facilitando a verificação dos números.
 
 ## Estruturas Utilizadas
 

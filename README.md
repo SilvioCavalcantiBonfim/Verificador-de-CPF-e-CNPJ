@@ -38,4 +38,4 @@ Isso iniciará a interface do projeto no terminal, onde você poderá inserir n�
 
 
 ## Autores
-Este projeto foi desenvolvido como atividade do curso de Desenvolvimento Backend em Ruby por Silvio Cavalcanti, Arleson Pontes, ... e ...
+Este projeto foi desenvolvido como atividade do curso de Desenvolvimento Backend em Ruby por Silvio Cavalcanti, Arleson Pontes e Lincon Matheus.
